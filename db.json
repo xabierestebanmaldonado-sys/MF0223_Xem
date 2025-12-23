@@ -1,0 +1,100 @@
+{
+  "servers": [
+    {
+      "nombre": "Servidor de Pruebas",
+      "cpu": "6",
+      "ram": "12",
+      "almacenamiento": "SSD",
+      "precio": 500,
+      "id": "1"
+    },
+    {
+      "nombre": "prueba2",
+      "cpu": "12",
+      "ram": "12",
+      "almacenamiento": "SSD",
+      "precio": 699,
+      "id": "UbueT41"
+    },
+    {
+      "id": "2",
+      "nombre": "Servidor Básico",
+      "cpu": 2,
+      "ram": 4,
+      "almacenamiento": "HDD",
+      "precio": 300
+    },
+    {
+      "id": "3",
+      "nombre": "Servidor Web",
+      "cpu": 4,
+      "ram": 8,
+      "almacenamiento": "SSD",
+      "precio": 480
+    },
+    {
+      "nombre": "Servidor de Archivos",
+      "cpu": "4",
+      "ram": "16",
+      "almacenamiento": "HDD",
+      "precio": 650,
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "nombre": "Servidor de Pruebas 2",
+      "cpu": 6,
+      "ram": 8,
+      "almacenamiento": "SSD",
+      "precio": 690
+    },
+    {
+      "id": "7",
+      "nombre": "Servidor Compacto",
+      "cpu": 2,
+      "ram": 4,
+      "almacenamiento": "SSD",
+      "precio": 350
+    },
+    {
+      "id": "8",
+      "nombre": "Servidor de Microservicios",
+      "cpu": 4,
+      "ram": 12,
+      "almacenamiento": "SSD",
+      "precio": 580
+    },
+    {
+      "id": "9",
+      "nombre": "Servidor Económico",
+      "cpu": 2,
+      "ram": 8,
+      "almacenamiento": "HDD",
+      "precio": 280
+    },
+    {
+      "id": "10",
+      "nombre": "Servidor de Monitoreo",
+      "cpu": 4,
+      "ram": 8,
+      "almacenamiento": "SSD",
+      "precio": 520
+    },
+    {
+      "id": "11",
+      "nombre": "Servidor de Desarrollo Ligero",
+      "cpu": 6,
+      "ram": 16,
+      "almacenamiento": "HDD",
+      "precio": 700
+    },
+    {
+      "nombre": "Es una prueba",
+      "cpu": "4",
+      "ram": "6",
+      "almacenamiento": "HDD",
+      "precio": 400,
+      "id": "bWT66gG"
+    }
+  ]
+}
