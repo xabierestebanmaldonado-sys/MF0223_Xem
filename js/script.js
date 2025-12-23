@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/servers';
+const API_URL = 'https://694a7ed826e870772065ab77.mockapi.io/servers';
 
 const serverForm = document.getElementById('serverForm');
 const serverList = document.getElementById('serverList');
